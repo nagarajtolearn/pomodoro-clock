@@ -160,7 +160,10 @@ function App() {
 
       <div className="author">
         Designed and Coded by <br />
-        <a href="#" target="_blank">
+        <a
+          href="https://github.com/nagarajtolearn/pomodoro-clock"
+          target="_blank"
+        >
           Nagaraj Biradar
         </a>
       </div>
