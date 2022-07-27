@@ -32,6 +32,13 @@ h2 {
   font-size: 25px;
 }
 
+.break-section,
+.session-section {
+  padding: 10px;
+  border: 2px solid #777;
+  border-radius: 10px;
+}
+
 .break,
 .session {
   display: flex;
